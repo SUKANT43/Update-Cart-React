@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # React Shopping Cart
 
-### [Demo Link](https://react-shopping-cart-project.netlify.app/) 🔗
+### [Demo Link](https://update-cart2-react3.netlify.app) 🔗
 
 **Shopping Cart Project** built with **React JS**, using **Context API** & **useReducer Hook**.
 
@@ -22,12 +22,6 @@
 
 <br/>
 
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
-
-<br/>
-
 ## Available Scripts:
 
 #### `npm start`
@@ -37,6 +31,4 @@
 #### `npm run build`
 
 #### `npm run eject`
-=======
-# Update-Cart-React
->>>>>>> f334e14947d33ca525b4bc41633d085f27306bcd
+
