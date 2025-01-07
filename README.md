@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Shopping Cart
 
 ### [Demo Link](https://react-shopping-cart-project.netlify.app/) 🔗
@@ -36,3 +37,6 @@
 #### `npm run build`
 
 #### `npm run eject`
+=======
+# Update-Cart-React
+>>>>>>> f334e14947d33ca525b4bc41633d085f27306bcd
